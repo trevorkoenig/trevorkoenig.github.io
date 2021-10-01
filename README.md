@@ -10,3 +10,5 @@ The URL of this page is https://trevorkoenig.github.io/
 The link to this page's git repository is https://github.com/trevorkoenig/trevorkoenig.github.io
 
 I regret to inform you that Dookiepage is live https://trevorkoenig.github.io/Dookiepage/
+
+Check out a todo list I made using a tutorial from Web Dev Simplified https://trevorkoenig.github.io/todolist/
